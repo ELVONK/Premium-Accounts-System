@@ -1,0 +1,24 @@
+[29-Aug-2019 04:58:30 America/Chicago] PHP Warning:  include(layout/header.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 2
+[29-Aug-2019 04:58:30 America/Chicago] PHP Warning:  include(layout/header.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 2
+[29-Aug-2019 04:58:30 America/Chicago] PHP Warning:  include(): Failed opening 'layout/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 2
+[29-Aug-2019 04:58:30 America/Chicago] PHP Warning:  include(layout/footer.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 80
+[29-Aug-2019 04:58:30 America/Chicago] PHP Warning:  include(layout/footer.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 80
+[29-Aug-2019 04:58:30 America/Chicago] PHP Warning:  include(): Failed opening 'layout/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 80
+[29-Aug-2019 05:02:54 America/Chicago] PHP Warning:  include(layout/header.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 2
+[29-Aug-2019 05:02:54 America/Chicago] PHP Warning:  include(layout/header.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 2
+[29-Aug-2019 05:02:54 America/Chicago] PHP Warning:  include(): Failed opening 'layout/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 2
+[29-Aug-2019 05:02:54 America/Chicago] PHP Warning:  include(layout/footer.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 80
+[29-Aug-2019 05:02:54 America/Chicago] PHP Warning:  include(layout/footer.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 80
+[29-Aug-2019 05:02:54 America/Chicago] PHP Warning:  include(): Failed opening 'layout/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 80
+[29-Aug-2019 05:05:46 America/Chicago] PHP Warning:  include(layout/header.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 2
+[29-Aug-2019 05:05:46 America/Chicago] PHP Warning:  include(layout/header.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 2
+[29-Aug-2019 05:05:46 America/Chicago] PHP Warning:  include(): Failed opening 'layout/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 2
+[29-Aug-2019 05:05:46 America/Chicago] PHP Warning:  include(layout/footer.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 80
+[29-Aug-2019 05:05:46 America/Chicago] PHP Warning:  include(layout/footer.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 80
+[29-Aug-2019 05:05:46 America/Chicago] PHP Warning:  include(): Failed opening 'layout/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 80
+[29-Aug-2019 05:07:43 America/Chicago] PHP Warning:  include(layout/header.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 2
+[29-Aug-2019 05:07:43 America/Chicago] PHP Warning:  include(layout/header.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 2
+[29-Aug-2019 05:07:43 America/Chicago] PHP Warning:  include(): Failed opening 'layout/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 2
+[29-Aug-2019 05:07:43 America/Chicago] PHP Warning:  include(layout/footer.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 80
+[29-Aug-2019 05:07:43 America/Chicago] PHP Warning:  include(layout/footer.php): failed to open stream: No such file or directory in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 80
+[29-Aug-2019 05:07:43 America/Chicago] PHP Warning:  include(): Failed opening 'layout/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/tkcoke/premium.tk.co.ke/dashboard.php on line 80
